@@ -1,4 +1,6 @@
 streamlit
-scikit-learn
-pandas
 numpy
+tensorflow-cpu
+keras
+SpeechRecognition
+streamlit-mic-recorder
